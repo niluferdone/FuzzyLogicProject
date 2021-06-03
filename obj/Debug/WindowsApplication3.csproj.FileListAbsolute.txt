@@ -1,0 +1,40 @@
+G:\Fuzzy Logic Example\Backup\bin\Debug\WindowsApplication3.exe
+G:\Fuzzy Logic Example\Backup\bin\Debug\WindowsApplication3.pdb
+G:\Fuzzy Logic Example\Backup\obj\Debug\WindowsApplication3.csprojResolveAssemblyReference.cache
+G:\Fuzzy Logic Example\Backup\obj\Debug\WindowsApplication3.Form1.resources
+G:\Fuzzy Logic Example\Backup\obj\Debug\WindowsApplication3.Form2.resources
+G:\Fuzzy Logic Example\Backup\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
+G:\Fuzzy Logic Example\Backup\obj\Debug\WindowsApplication3.exe
+G:\Fuzzy Logic Example\Backup\obj\Debug\WindowsApplication3.pdb
+C:\Users\süleyman\Desktop\Fuzzy Logic Example\Fuzzy Logic Example\Backup\obj\Debug\WindowsApplication3.exe
+C:\Users\süleyman\Desktop\Fuzzy Logic Example\Fuzzy Logic Example\Backup\obj\Debug\WindowsApplication3.pdb
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.exe
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.pdb
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\bin\Debug\WindowsApplication3.exe
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\bin\Debug\WindowsApplication3.pdb
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Properties.Resources.resources
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.exe
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Properties.Resources.resources
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\bin\Debug\WindowsApplication3.exe
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\bin\Debug\WindowsApplication3.pdb
+C:\Users\süleyman\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.pdb
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.exe
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.pdb
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\bin\Debug\WindowsApplication3.exe
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\bin\Debug\WindowsApplication3.pdb
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\Bulanık Mantık projemiz\Bulanık Mantık projemiz\Bulanık Mantık projemiz\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
